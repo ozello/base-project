@@ -1,14 +1,14 @@
 {
     "name": "project-angularjs-test",
     "version": "1.0.0",
-    "description": "Base project for Web applications",
+    "description": "Base project for complete Web applications",
     "main": "Gruntfile.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ozello/base-project.git"
+        "url": "git+https://github.com/ozello/project-angularjs-test.git"
     },
     "keywords": [
         "angularjs"
@@ -16,9 +16,9 @@
     "author": "Alexandre Ozelo",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/ozello/base-project/issues"
+        "url": "https://github.com/ozello/project-angularjs-test/issues"
     },
-    "homepage": "https://github.com/ozello/base-project#readme",
+    "homepage": "https://github.com/ozello/project-angularjs-test#readme",
     "dependencies": {
         "grunt": "^0.4.5"
     },
